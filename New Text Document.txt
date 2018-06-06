@@ -1,0 +1,5 @@
+1.interschimbarea valorilor a doua numere
+2.semnul unui produs 
+3.cel mai mare numar
+4.ordonare descrescatoare
+5.numere in litere
